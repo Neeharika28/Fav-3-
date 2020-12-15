@@ -1,0 +1,25 @@
+.menu{
+  background-color:white;
+    text-decoration: none;
+    list-style: none;
+    position: fixed;
+    font-size: 25px;
+    color: black;
+}
+h2{
+    font-size: 45px;
+    font-family: 'Pacifico', cursive;
+}
+.link{
+    padding: 9px;
+    float: left;
+    color: aliceblue;
+}
+p{
+    font-size:25px;
+}
+body{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+}
